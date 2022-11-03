@@ -1,0 +1,25 @@
+table,tr,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+.btn-primary{
+    background-color:yellow;
+    color: red;
+}
+
+.color{
+    background-color: grey;
+}
+.text-success{
+      color: green;
+}
+.text-danger{
+     color: red;
+}
+.text-special{
+    font-style:italic;
+}
+
+.disablecolor{
+    background-color: grey;
+}
